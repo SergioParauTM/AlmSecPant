@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlmSecPant</string>
+    <string name="fecha">__/__/____</string>
+    <string name="title_activity_sec">SecActivity</string>
+    <string name="sexo">Hombre/Mujer</string>
+
+</resources>
